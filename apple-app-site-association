@@ -1,1 +1,11 @@
-test
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+			{
+				"appID": "74D322Z5HV.qibla.finder.mecca.compass",
+				"paths": ["/promo/*"]
+			}
+        ]
+    }
+}
