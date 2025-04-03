@@ -1,11 +1,11 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-			{
-				"appID": "JLGL2577M7.qibla.finder.mecca.compass",
-				"paths": ["/promo/*"]
-			}
-        ]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "JLGL2577M7.com.voice.translator.camera.text",
+        "paths": [ "/join/*" ]
+      }
+    ]
+  }
 }
